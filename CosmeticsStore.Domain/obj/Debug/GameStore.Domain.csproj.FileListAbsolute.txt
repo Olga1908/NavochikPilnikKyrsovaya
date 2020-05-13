@@ -1,0 +1,83 @@
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+D:\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\Projects\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\EntityFramework.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\mscorlib.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\EntityFramework.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\ru\mscorlib.resources.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\normidna.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\normnfc.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\normnfd.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\normnfkc.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\bin\Debug\normnfkd.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\GameStoreMVC5\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\EntityFramework.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\mscorlib.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\EntityFramework.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\ru\mscorlib.resources.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\normidna.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\normnfc.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\normnfd.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\normnfkc.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\bin\Debug\normnfkd.nlp
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+i:\КОТИКИ\Света\1\сайт автомобилей\сайт\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
